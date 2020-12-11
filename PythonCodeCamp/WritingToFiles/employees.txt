@@ -1,0 +1,5 @@
+Jim - Salesman
+Dwight - Salesman
+Pan - Receptionist
+Michael - Manager
+Oscar - Accountant
