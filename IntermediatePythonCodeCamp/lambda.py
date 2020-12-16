@@ -51,5 +51,5 @@ print(c)
 
 
 a = [1, 2, 3, 4, 5, 6]
-prod_a = reduce(lambda x, y: )
+prod_a = reduce(lambda x, y: x * y, a)
 print(prod_a)
